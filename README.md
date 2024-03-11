@@ -1,9 +1,5 @@
 **Project 1: SimCity**
 
-Group 207-2
-
-Group Members: Alexis Aguilar, Corinna Martin, Claire Pacquing, Britton Womble
-
     Compile Method:
     g++ -o simcity main.cpp initialization.cpp zone.cpp output.cpp
     ./simcity
