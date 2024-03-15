@@ -3,5 +3,13 @@ project(simcity)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(simcity main.cpp zone.cpp zone.h initialization.cpp initialization.h output.cpp output.h
+add_executable(
+    simcity
+    main.cpp
+    zone.cpp
+    zone.h
+    initialization.cpp
+    initialization.h
+    output.cpp
+    output.h
 )
